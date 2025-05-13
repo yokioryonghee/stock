@@ -1,7 +1,4 @@
-pyenv activate venv
 
-
-cd /Users/yokikim/Desktop/snp
 
 pip freeze > requirements.txt
 cat requirements.txt
