@@ -1,0 +1,20 @@
+pyenv activate venv
+
+
+cd /Users/yokikim/Desktop/snp
+
+pip freeze > requirements.txt
+cat requirements.txt
+
+
+pandas
+yfinance
+numpy
+matplotlib
+scikit-learn
+keras
+tensorflow
+
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push origin main
