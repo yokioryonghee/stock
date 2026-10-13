@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+artifacts/
+.pytest_cache/
+ml_model/
+data/
